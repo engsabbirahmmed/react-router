@@ -1,0 +1,8 @@
+.user-basic a{
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+}
+.user-basic a:hover{
+    color: orangered;
+}

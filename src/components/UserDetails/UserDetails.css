@@ -1,0 +1,10 @@
+.user-details{
+    width: 50%;
+    margin: auto;
+    border: 3px solid hotpink;
+    margin-top: 50px;
+    border-radius: 20px;
+}
+.user-name{
+    color: #531397;
+}

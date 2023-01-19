@@ -1,0 +1,10 @@
+.posts{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+}
+@media screen  and (max-width: 768px){
+    .posts{
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
